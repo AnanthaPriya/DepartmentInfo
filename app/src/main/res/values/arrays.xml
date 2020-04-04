@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="department_name" />
+    <string-array name="department_Hod_list" />
+    <string-array name="department_contact_number" />
+</resources>
